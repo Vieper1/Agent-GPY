@@ -1,5 +1,9 @@
 # Agent-GPY
 A python bot which is tailor made to play Counter Strike 1.6 using Image Processing and Controller Emulation <br>
+1200 images of skins in CS1.6 were used to train the Haar Cascade Classifier.
+
+Check this presentation for some insight into the project:
+https://docs.google.com/presentation/d/1iuS8Dtrb6iFZHHXhvnmNhHCuNTyF8SOqc_-67GJICic/edit?usp=sharing
 
 # Instructions
 1. Install Python3
